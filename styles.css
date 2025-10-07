@@ -1,0 +1,15 @@
+p {
+    color: aqua;
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+h1{
+    color: dodgerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30pt;
+}
+
+body{
+    background-color: lightblue;
+}
